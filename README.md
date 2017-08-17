@@ -1,1 +1,0 @@
-# gendarmequotemachine.github.io
