@@ -1,0 +1,48 @@
+body {
+  background: url(http://unsplash.com/photos/1_CMoFsPfso/download?force=true);
+  background-size: cover;
+}
+
+h1 {
+  color: black;
+  font-family: 'Raleway, sans-serif;
+}
+
+p {
+  padding: 15px;
+  color: black;
+  font-family: 'Raleway', sans-serif;
+  font-style: italic;
+}
+
+button {
+  color: black;
+  margin-top: 20px;
+}
+
+.quotes {
+  font-family: Raleway, sans-serif;
+  background-color: grey;
+  width: 55%;
+  margin-left: auto;
+  margin-right: auto;
+  border-style: solid;
+  border-color: black;
+  margin-top: 50px;
+  padding: 10px;
+  color: black;
+  margin-bottom: 250px;
+}
+
+.quote {
+    font-weight: bold;
+    font-size: 25px;
+    font-family: 'Raleway', sans-serif;
+}
+
+.author {
+  font-size: 14px;
+  font-style: italic;
+}
+
+
